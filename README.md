@@ -1,11 +1,9 @@
 ## Hi there, My name is Akbar
-### Full-Stack Developer and CS Student!
-I'm currently a self-taught Full-Stack Developer and Computer Science student. I enjoy learning new languages and frameworks, and am currently working my way up to learn ReactJS to improve my Front-end Web Development. My dream is to work at Google, and I'm working my way up to fulfill that dream!
+### MERN Stack & NextJS Developer
+### I am a Computer Science Junior currently proficient in building web and mobile-based products/solutions! 
 
-## Skills: JS / HTML / CSS / NodeJS / MongoDB / C++ / DSA
-
-- 🌱 I’m currently learning ReactJS 
-- 👯 I’m looking to collaborate on Full-Stack Web Development Projects 
+## Skills: NextJS | NodeJS | GraphQL | TypeScript | JavaScript | Express | MongoDB | PostgreSQL | Flutter | C++ | Python
+- 👯 I’m looking to collaborate on MERN Stack and NextJS Projects (involving GraphQL) 
 - 📫 How to reach me: mianakbarjan@hotmail.com 
 
 
