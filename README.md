@@ -2,7 +2,7 @@
 ### MERN Stack & NextJS Developer
 ### I am a Computer Science Junior currently proficient in building web and mobile-based products/solutions! 
 
-## Skills: NextJS | NodeJS | GraphQL | TypeScript | JavaScript | Express | MongoDB | PostgreSQL | Flutter | C++ | Python
+## Skills: OpenAI | LangChain | Llama | NextJS | NodeJS | GraphQL | TypeScript | JavaScript | Express | MongoDB | PostgreSQL | Flutter | C++ | Python
 - 👯 I’m looking to collaborate on MERN Stack and NextJS Projects (involving GraphQL) 
 - 📫 How to reach me: mianakbarjan@hotmail.com 
 
